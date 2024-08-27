@@ -16,7 +16,7 @@
     - Create mutators and accessors for each attribute 
     - Create a method that returns two statements as true
     - Create a method that returns one statement that you believe is a lie about another student.
-    - Create a method that returns the student's height in inches.
+    - Create a method that returns the student's height in feet and inches.
     - Create a toString method that displays the student's info in the following format:
         
         Student: full name
